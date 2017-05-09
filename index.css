@@ -1,0 +1,8 @@
+body {
+  margin-top: 20px;
+}
+
+.form-group .error {
+  padding: 5px;
+  color: red;
+}
